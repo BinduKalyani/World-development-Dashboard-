@@ -10,3 +10,9 @@ Run the app:
   streamlit run app.py
 
 The app will open at http://localhost:8501
+
+## 📊 Dashboard Preview
+
+![Dashboard](dashboard.png)
+
+📄 [View Full PDF](dashboard.pdf)
