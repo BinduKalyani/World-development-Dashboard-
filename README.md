@@ -15,4 +15,4 @@ The app will open at http://localhost:8501
 
 ![Dashboard](image.png)
 
-📄 [View Full PDF](World Development Dashboard.pdf)
+📄 [View Full Dashboard (PDF)](dashboard.pdf)
